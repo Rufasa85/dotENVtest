@@ -1,0 +1,23 @@
+{
+  "name": "dotenvtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rufasa85/dotENVtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rufasa85/dotENVtest/issues"
+  },
+  "homepage": "https://github.com/Rufasa85/dotENVtest#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0"
+  }
+}
